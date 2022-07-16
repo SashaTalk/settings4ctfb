@@ -1,0 +1,20 @@
+Settings for Catch-the-falling-ball
+Game duration in milliseconds
+Number of balls to win
+Number of balls
+Maximum ball radius
+Minimum ball radius
+Maximum speed of balls
+Minimum speed of balls
+Save and quit
+Type some number
+Restore defaults
+Drop game folder here and press Enter
+About
+This program is the editor of level.txt from the Catch-the-falling-ball game
+Made by
+Game made by
+Open the game repo on GitHub
+Open the program repo
+Contact the program author
+Go back
