@@ -134,7 +134,7 @@ echo 1. !locale16!
 echo 2. !locale17!
 echo 3. !locale18!
 echo 0. !locale19!
-set /p var=Type some number : 
+set /p var=!locale9! : 
 if "!var!"=="1" start https://github.com/maxim-adaev-production/Catch-the-falling-ball
 if "!var!"=="2" start https://github.com/SashaTalk/settings4ctfb
 if "!var!"=="3" start https://me.sashatalk.ml
