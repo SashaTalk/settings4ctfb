@@ -135,7 +135,7 @@ echo 2. !locale17!
 echo 3. !locale18!
 echo 0. !locale19!
 set /p var=!locale9! : 
-if "!var!"=="1" start https://github.com/maxim-adaev-production/Catch-the-falling-ball
+if "!var!"=="1" start https://github.com/m-a-prod/Catch-the-falling-ball
 if "!var!"=="2" start https://github.com/SashaTalk/settings4ctfb
 if "!var!"=="3" start https://me.sashatalk.ml
 if "!var!"=="0" goto :eof

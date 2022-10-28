@@ -1,6 +1,6 @@
 # settings4ctfb
 
-Settings for [Catch-the-falling-ball](https://github.com/maxim-adaev-production/Catch-the-falling-ball)
+Settings for [Catch-the-falling-ball](https://github.com/m-a-prod/Catch-the-falling-ball)
 
 ## License
 
