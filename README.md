@@ -4,7 +4,7 @@ Settings for [Catch-the-falling-ball](https://github.com/m-a-prod/Catch-the-fall
 
 ## License
 
-This program licensed inder [MIT License](LICENSE)
+This program licensed under the [MIT License](LICENSE)
 
 ## Author
 
